@@ -1,3 +1,8 @@
+FORKED TO INCLUDE COMPATIBILITY WITH HUAWEI GT2e RAW DATAS
+
+
+
+
 <img align="left" width="80" height="80" src="./Development Tools/icon.png" alt="Huawei TCX Converter icon">
 
 # Huawei TCX Converter
